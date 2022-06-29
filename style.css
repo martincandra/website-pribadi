@@ -138,6 +138,12 @@ section h3::after{
     line-height: 25px;
     margin-bottom: 15px;
 }
+#services p {
+    text-align: justify;
+    text-indent: 40px;
+    line-height: 25px;
+    margin-bottom: 15px;
+}
 #skills,
 #contact,
 #portfolio {
